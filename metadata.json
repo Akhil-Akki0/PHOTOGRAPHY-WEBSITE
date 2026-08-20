@@ -1,0 +1,7 @@
+{
+  "name": "AKHILANUBHAVA Photography",
+  "description": "Editorial and cinematic photography portfolio created by Akhil with interactive camera sound effects, film stock emulation, and viewfinder tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
